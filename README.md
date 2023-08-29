@@ -72,6 +72,6 @@ Other links at: https://github.com/davidquindoza
 ## Acknowledgments
 
 * [Unsplash for Image](https://unsplash.com/photos/HWQXIYbs8PM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-* [UFO ML short course](https://github.com/davidquindoza/ML-For-Beginners)
+* [UFO ML Web App Course](https://github.com/davidquindoza/ML-For-Beginners)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
