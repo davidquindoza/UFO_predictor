@@ -14,7 +14,7 @@ has occured using a regression model.
 """)
 
 with st.form("my_form"):
-    seconds = st.slider("Form slider", min_value=0.0, max_value=60.0)
+    seconds = st.slider("UFO Sighting in Seconds:", min_value=0.0, max_value=60.0)
     
     latitude = st.text_input('Latitude:')
     
