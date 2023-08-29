@@ -1,10 +1,16 @@
 import streamlit as st
-import pandas as pd
+import os
 import numpy as np
 import pickle
 
+# Get the directory of the current script
+script_directory = os.path.dirname(os.path.abspath(__file__))
+
+# Construct the full path to the model file
+model_path = os.path.join(script_directory, "ufo-model.pkl")
+
 # Load the machine learning model
-model = pickle.load(open("ufo-model.pkl", "rb"))
+model = pickle.load(open(model_path, "rb"))
 
 st.title('🛸 UFO Predictor App 👽')
 
