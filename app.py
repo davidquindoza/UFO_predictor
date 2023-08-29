@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the machine learning model
-model = pickle.load(open("pickle/ufo-model.pkl", "rb"))
+model = pickle.load(open("ufo-model.pkl", "rb"))
 
 st.title('🛸 UFO Predictor App 👽')
 
