@@ -8,7 +8,7 @@
 <h3 align="center">UFO Sightings Predictor</h3>
 
   <p align="center">
-     This web app uses a pickled Logistic Regression model to predict the nearest location of a UFO sighting based on the seconds since the sighting, and the latitude and longitude coordinates of the sighting. The model was trained on a dataset of historical UFO sightings from the National UFO Reporting Center.
+     This web app uses a pickled Logistic Regression model to predict the nearest location of a UFO sighting based on the seconds since the sighting, and the latitude and longitude coordinates of the sighting. The model was trained on a dataset of historical UFO sightings from National UFO Reporting Center found at Kaggle.
     <br />
     <a href="https://github.com/davidquindoza/UFO_predictor"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,6 +63,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Gmail - dmquindoza@gmail.com
 
 Other links at: https://github.com/davidquindoza
+
+Dataset: https://www.kaggle.com/datasets/NUFORC/ufo-sightings
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
